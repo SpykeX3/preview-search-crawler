@@ -1,4 +1,2 @@
 # preview-search-crawler
-### One day I decided to look for a webcam model I know personally online, but I didn't know her nickname, so I decided to use PimEyes (service to find images containing person's face). PimEyes worked great and found several video previews, some of them even contained nickname. Sadly that model was not popular enough for search engines like Google to find any videos or pictures by her nickname. So all I had was a video preview where everything but her face was blurred and a domain name.
-### Suddenly I've got an idea to download all previews from that site and use computer vision to detect face in the video preview, so I wrote this.
-### It works well but the video I was looking for was removed =(
+### A crawler that downloads video previews from a streaming site and searches for the specified face
